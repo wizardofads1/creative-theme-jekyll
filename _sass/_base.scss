@@ -284,6 +284,10 @@ header {
     }
 }
 
+#footer {
+    background-color: rgba($theme-dark, .5);
+}
+
 // Bootstrap Overrides
 .text-primary {
     color: $theme-primary;
