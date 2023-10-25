@@ -285,7 +285,7 @@ header {
 }
 
 #footer {
-    background-color: rgba($theme-dark);
+    background-color: $theme-dark;
     p {
         color: bisque;
     }
