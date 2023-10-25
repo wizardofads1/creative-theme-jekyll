@@ -285,7 +285,10 @@ header {
 }
 
 #footer {
-    background-color: rgba($theme-dark, .5);
+    background-color: rgba($theme-dark);
+    p {
+        color: bisque;
+    }
 }
 
 // Bootstrap Overrides
