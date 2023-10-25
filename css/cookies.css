@@ -10,7 +10,7 @@
     left: 1.25rem;
     right: 1.25rem;
     padding: 1.5rem;
-    border-radius: 2rem;
+    border-radius: 2.75rem;
     box-shadow: 0 0 0.625rem 0 rgba(0, 0, 0, 0.15);
     line-height: 150%;
     transition: opacity 0.5s;
@@ -30,6 +30,9 @@
 .cookie-popup--accepted {
     opacity: 0;
     z-index: -999;  
+}
+.cookie-icon {
+    padding-bottom: 1.5rem;
 }
 .cookie-popup a {
     color: skyblue;
